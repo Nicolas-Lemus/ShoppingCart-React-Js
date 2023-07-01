@@ -1,0 +1,27 @@
+.inputs{
+    padding-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    margin: .4rem;
+    width: 500px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px green solid;
+}
+.buttonModify{
+    margin-top: 2rem;
+    background: rgb(217, 194, 90);
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: rgb(12, 74, 9);
+    border-radius: 10px;
+}
+.buttonModify:hover{
+    background: rgb(12, 74, 9) ;
+    color: rgb(217, 194, 90);
+    transition: 1s;
+}

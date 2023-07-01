@@ -1,0 +1,228 @@
+[
+    {   
+        "id":"1",
+        "title":"Xiaomi Redmi 12c Dual Sim 128 Gb Gris 4 Gb Ram",
+        "price":8000,
+        "category":"Smartphones",
+        "description":"Capturá cada detalle! Este dispositivo viene equipado con una cámara principal de 50MP y un modo de visión nocturna, lo que te permitirá capturar imágenes nítidas y detalladas incluso en condiciones de poca luz. Además, cuenta con un modo retrato que te ayudará a destacar el sujeto y desenfocar el fondo para lograr un efecto más artístico.Modo HDR.Con esta función, podrás obtener imágenes con un rango dinámico más amplio, lo que significa que los detalles tanto en las luces como en las sombras se conservan de manera más precisa.Instantánea ultra rápidaRedmi 12C permite capturar imágenes en movimiento con rapidez gracias a un nuevo algoritmo, lo que se traduce en una velocidad de inicio de cámara y vista previa sorprendentes. Además, cuenta con una optimización del 30% en la captura y 50% en la vista previa. Todo esto te permitirá congelar instantáneamente los momentos felices y conmovedores para guardarlos en tu corazón para siempre.Procesador de ocho núcleos Helio G85.Este smartphone cuenta con un procesador de alto rendimiento, lo que permite una experiencia de juego fluida y receptiva, así como una velocidad de inicio de aplicaciones más rápida. También mejora la interacción general con el dispositivo, ofreciendo una interacción más cómoda y eficiente.",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_804635-MLA69116436082_042023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_953220-MLU54182659077_032023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_804020-MLU54182659069_032023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_2X_656768-MLU54182659081_032023-F.webp"
+        ],
+        "previous_price":"$8300",
+        "stock":"Disponible"
+    },
+    {
+        "id":"2",
+        "title":"Celular Xiaomi Redmi 12c Ips 6,7'' 4/128 2023 + Regalo Dimm",
+        "price":8900,
+        "category":"Smartphones",
+        "description":"- SIM: Nano-SIM , Dual-SIM híbrida- Redes: G/M/CDMA/HSPA/EVDO/LTE- Pantalla: IPS LCD, 500 nits 6,71 pulgadas. 720 x 1650 píxeles (~268 ppi de densidad)- Sistema operativo: Android 12 + MIUI 13- Chipset Mediatek MT6769Z Helio G85 (12nm) + GPU Malí-G52 MC2- Memoria RAM: 4GB- Memoria ROM: 128GB ampliable por MicroSD- Cámara principal: 50 MP, (ancho), PDAF + 0,08 MP (profundidad) con Flash LED- Cámara frontal: 5 MP- Conectividad: Bluetooth 5.1, A2DP, LE | Wi-Fi 802.11 a/b/g/n/ac, doble banda, Wi-Fi Direct- Sensores: Huella digital (montada en la parte trasera), acelerómetro, detección de proximidad virtual- Posicionamiento: GPS, GLONASS, BDS, GALILEO- Batería Li-Po 5000 mAh, no extraíble. Carga rápida 10W con cable- Medidas: Ancho 76,4 cm x Alto 16,8 cm x Profundidad 0,88 cm | Peso: 192 gr- 12 Meses de Garantía",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_915415-MLU54079576866_022023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_690265-MLA49949612039_052022-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_735835-MLU54852313086_042023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_854668-MLA50342489684_062022-O.webp"
+            ],
+        "previous_price":"$9199",
+        "stock":"Disponible"
+    },
+    {
+        "id":"3",
+        "title":"Xiaomi Redmi Note 12 Nuevos 4/128 Gb 4g Dimm + Regalo Dimm",
+        "price":15000,
+        "category":"Smartphones",
+        "description":"- SIM: Hybrid Dual SIM (Nano-SIM, doble modo de espera).- Redes: G/M/HSPA/LTE- Pantalla: AMOLED, 120 Hz, 450 nits (típico), 700 nits (HBM), 1200 nits (pico)- Sistema operativo: Android 13 MIUI 14- CPU: Qualcomm SM6225 Snapdragon 685 (6 nm)- IP53, resistente al polvo y a las salpicaduras- Memoria RAM: 4 GB- Memoria interna: 128 GB ampliable por MicroSD hasta 1 TB- Entrada auriculares 3.5mm tipo Jack- Cámara principal: Triple cámara 50 MP, f/1,8, (gran angular), 1/2,76, 0,64 µm, PDAF | 8 MP, f/2,2, 120 (ultra gran angular), 1/4, 1,12 µm | 2 MP, f/2,4, (macro)- Cámara frontal: 13MP, f/2.5, (gran angular) | Video 1080p @ 30fps; HDR- Conectividad: Bluetooth 5.0 | Wi-Fi | NFC | USB tipo C 2.0 OTG | Infrarrojo- Sensores: Huella digital (montada lateralmente), acelerómetro, giroscopio, proximidad, brújula- Posicionamiento: GPS, GLONASS, BDS, GALILEO- Batería Li-Po 5000 mAh no extraíble- Medidas: Ancho 7.6 cm x Alto 16.5 cm x Profundidad 0.8 cm | Peso: 188 gr- 12 Meses de Garantía",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_737952-MLU69431577512_052023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_664278-MLU69249943649_052023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_830740-MLU69249943647_052023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_732429-MLU69781334161_062023-O.webp"
+            ],
+        "previous_price":"$15399",
+        "stock":"Disponible"
+
+    },
+    {
+        "id":"4",
+        "title":"Apple iPhone 12 (64 GB) - Negro",
+        "price":34900,
+        "category":"Smartphones",
+        "description":"El iPhone 12 tiene una espectacular pantalla Super Retina XDR de 6.1 pulgadas (1). Un frente de Ceramic Shield, cuatro veces más resistente a las caídas (2). Modo Noche en todas las cámaras, para que puedas tomar fotos increíbles con poca luz. Grabación, edición y reproducción de video en Dolby Vision con calidad cinematográfica. Y el potente chip A14 Bionic. Además, es compatible con los nuevos accesorios MagSafe, que se acoplan fácilmente a tu iPhone y permiten una carga inalámbrica más rápida (3). Que comience la diversión.",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_917436-MLA46153583468_052021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_804039-MLA46153583465_052021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_780729-MLA46153583474_052021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_957466-MLA46153583477_052021-O.webp"
+        ],
+        "previous_price":"$35090",
+        "stock":"Disponible"
+    },
+    {
+        "id":"5",
+        "title":"Apple iPhone 13 (256 GB) - Rosa",
+        "price":44200,
+        "category":"Smartphones",
+        "description":"iPhone 13. El sistema de dos cámaras más avanzado en un iPhone. El superrápido chip A15 Bionic. Un gran salto en duración de batería. Un diseño resistente. Y una pantalla Super Retina XDR más brillante.3El iPhone 13 es resistente a los derrames, a las salpicaduras y al polvo, y fue probado en condiciones de laboratorio controladas, con una clasificación IP68 según la norma IEC 60529. La resistencia a los derrames, a las salpicaduras y al polvo no es una condición permanente, y podría disminuir como consecuencia del uso normal. No intentes cargar un iPhone mojado; consulta el manual del usuario para ver las instrucciones de limpieza y secado. La garantía no cubre daños producidos por líquidos.",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_865499-MLA47781634015_102021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_628505-MLA48035925416_102021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_978754-MLA47781378710_102021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_723822-MLA47781634016_102021-O.webp"
+        ],
+        "previous_price":"$45590",
+        "stock":"Disponible"
+    },
+    {
+        "id":"6",
+        "title":"iPhone 11 64gb",
+        "price":23500,
+        "category":"Smartphones",
+        "description":"IPHONE 11 64GB + VIDRIO TEMPLADO + LIBRE + CASE TRANSPARENTE! Equipo recertificado, libre para cualquier compañía telefónica, con un año de garantía /Especificaciones Procesador: Apple A13 BionicMemoria RAM: 4GB Almacenamiento:64 GBCámara trasera: 12 MP (wide) + 12 MP (ultrawide)Cámara frontal: 12 MP + TOF 3D Camara + 2160p Grabación Video:2160p @24/30/60fps/ 1080p @30/60/120/240fps / HDR / Sonido EstéreoFlash: Quad-LED dual-tone flash, HDR (photo/panorama)Pantalla: 6,1 pulgadas (828 x 1792 píxeles) Táctil Retina IPS /Sistema Operativo:iOS actualizable a la última versión.Tecnología: LTE 4G LibreExtras:GPS / Wi-Fi / Bluetooth / Siri / iCloud / Face ID",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_656548-MLA46114829749_052021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_831874-MLA46115014366_052021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_876679-MLA46114829792_052021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_927742-MLA46114990447_052021-O.webp"
+        ],
+        "previous_price":"$24990",
+        "stock":"Disponible"
+    },
+    {
+        "id":"7",
+        "title":"Notebook Gateway Ultra Slim GWNR71517 gris 15.6",
+        "price":24900,
+        "category":"Notebooks",
+        "description":"La notebook Gateway Ultra Slim GWNR71517 es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.Su pantalla de 15.6 y 1920x1080 px de resolución te brindará colores más vivos y definidos. Tus películas y series preferidas cobrarán vida, ya que ganarán calidad y definición en cada detalle",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_697777-MLA52236809417_112022-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_763016-MLA52236804466_112022-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_746929-MLA52236804464_112022-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_846071-MLU53389007353_012023-O.webp"
+        ],
+        "previous_price":"$25290",
+        "stock":"Disponible"
+    },
+    {
+        "id":"8",
+        "title":"Notebook Dell 13.3  I5-11320h 512ssd 16ram Ultima Generacion",
+        "price":36000,
+        "category":"Notebooks",
+        "description":"Procesador: Intel Core i5-11320H 11va generación Quad-Core 3.2 - 4.5 GHz-Memoria RAM: 16 GB DDR4 3200 MHz-Disco duro: 512 GB SSD PCIe NVMe M.2-Pantalla: LED de 13.3 Full HD+ 1920 x 1200p, 250 nits-Tarjeta gráfica: Intel Iris Xe-Sistema Operativo: Windows 11 Home-Teclado retroiluminado-Lector de huellas dactilares-Unidad Óptica: No-Cámara web FHD integradaConectividad inalámbrica: MediaTek Wi-Fi 6 (2x2) Gig+ y Bluetooth 5.2.Puertos y ranuras:-1 x USB 3.2 Gen 1 Tipo-A-2 x USB 3.2 Gen 2 Tipo-C (suministro de energía y DisplayPort).1 conector para auriculares 3.5mm.1 x HDMI 1.4Batería : 4 celdas 54 WHr.Color: Platinum Silver.Dimensiones: 3.23 de ancho x 10.70 de largo x 0.23 de altoPeso aproximado: 2.88 libras.Open box",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_989687-MLU54955816355_042023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_679057-MLU54969269204_042023-F.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_625078-MLU53967087158_022023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_631243-MLU54963769225_042023-O.webp"
+        ],
+        "previous_price":"$36390",
+        "stock":"Disponible"
+    },
+    {
+        "id":"9",
+        "title":"Notebook Hp Ryzen 5 15.6'' 20gb 256gb Ssd  Full Hd Win 10",
+        "price":35390,
+        "category":"Notebooks",
+        "description":"Modelo:15-ef2126wm--Marca: HP --Sistema Operativo: Windows 11 --Procesador: AMD Ryzen 5 5500U 2.1GHz / 6 Núcleos --Almacenamiento: 256Gb SSD M.2 PCIe NVMe --Memoria RAM: 20Gb DDR 3200MHz --Pantalla:15.6 Pulgadas Full HD 1366 px x 720 px--Batería: 3 celdas, 41 Wh Li-ion --Tarjetas de video: AMD Radeon Graphics --Audio: 2 Parlantes Stereo --Cámara Web: True Vision 720p HD --Conectividad: Wi-Fi + Bluetooth 5--Puertos:--1 USB Type-C --2 USB Type-A-1 HDMI 1.4b --1 3.5mm Audio",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_952024-MLU53470960808_012023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_748481-MLU53471104302_012023-F.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_688996-MLU53471150041_012023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_810516-MLU53470928802_012023-O.webp"
+        ],
+        "previous_price":"$35990",
+        "stock":"Disponible"
+    },
+    {
+        "id":"10",
+        "title":"Notebook Gamer Gigabyte G5 Ips 15.6'' I5 16gb 512m2 Rtx3060",
+        "price":45999,
+        "category":"Notebooks",
+        "description":"Los portátiles de la serie G5 combinan, gaming, entretenimiento, trabajo y mucho más, con un equilibrio sin igual.Con una herramienta para cada tarea, estos portátiles estarán a la altura en cada uno de los diferentes roles, desempeñando un perfecto rendimiento tanto en la batalla como en el día a día. La nueva arquitectura NVIDIA Ampere ofrece el juego definitivo y presenta los núcleos avanzados de trazado de rayos de segunda generación y los Tensor Cores de tercera generación con un rendimiento superior. NVIDIA Reflex ofrece la máxima ventaja competitiva. La latencia más baja. La mejor capacidad de respuesta con la tecnología de los portátiles con GeForce RTX serie 30. Adquiere objetivos más rápido, reacciona con más rapidez y aumenta la precisión del objetivo con un conjunto revolucionario de tecnologías para medir y optimizar la latencia del sistema para los juegos competitivos.",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_634389-MLU53987456669_022023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_741572-MLU69425795142_052023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_642344-MLU69425427696_052023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_620189-MLU53987456665_022023-F.webp"
+        ],
+        "previous_price":"$46390",
+        "stock":"Disponible"
+    },
+    {
+        "id":"11",
+        "title":"Sony PlayStation 5 825GB Digital Edition color  blanco y negro",
+        "price":27000,
+        "category":"Console",
+        "description":"PlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retosCalidad de otro nivelSe considera que esta consola es de las mejores dentro del mercado, dado que presenta una resolución de hasta 4K.Además, el control DualSense para PS5 combina estilo y tecnología para que jugar sea más cómodo e interactivo para todos sus jugadores.Adaptada a tus necesidadesGuardá tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 825 GB.Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición.Por otro lado, tiene puerto USB y salida HDMI, que permiten conectar accesorios y cargar la batería de tu control mientras jugás.",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_791396-MLA47058527002_082021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_860019-MLA47058389627_082021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_828140-MLA47058527086_082021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_694543-MLA47058389687_082021-O.webp"
+        ],
+        "previous_price":"$27390",
+        "stock":"Disponible"
+    },
+    {
+        "id":"12",
+        "title":"Nintendo Switch OLED 64GB Standard color  blanco y negro",
+        "price":25900,
+        "category":"Console",
+        "description":"Con tu consola Switch tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos. Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online. Los Joy-con cuentan con botones especiales para realizar print de pantalla. Además, posee una cámara infrarroja que puede leer la distancia respecto a los objetos e incluso detectar formas.",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_860235-MLA47920360779_102021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_984658-MLA47920649134_102021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_805680-MLA47920420608_102021-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_970812-MLA47920420603_102021-O.webp"
+        ],
+        "previous_price":"$26190",
+        "stock":"Disponible"
+    },
+    {
+        "id":"13",
+        "title":"Microsoft Xbox Series S 512GB Standard color  blanco",
+        "price":16900,
+        "category":"Console",
+        "description":"Con tu consola Xbox Series tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos. La nueva generación de consolas está comandada por la Xbox Series que llegó al mercado para sorprender a todos. Su potencia y alto rendimiento te permitirá reducir las horas de descarga de juegos y contenido de manera considerable en comparación con otras consolas. Además, vas a poder jugar durante horas mientras te divertís con jugadores de todo el mundo. Guardá tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 512 GB.Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición. Por otro lado, tiene puerto USB y salida HDMI, que permiten conectar accesorios y cargar la batería de tu control mientras jugás. ",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_641295-MLA69573719686_052023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_996061-MLA69573777498_052023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_986729-MLA69587766137_052023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_708086-MLA69587706869_052023-O.webp"
+        ],
+        "previous_price":"$17190",
+        "stock":"Disponible"
+    },
+    {
+        "id":"14",
+        "title":"Nintendo Switch 32GB Standard color  rojo neón, azul neón y negro",
+        "price":26199,
+        "category":"Console",
+        "description":"Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online.Nintendo Switch es una consola desmontable, que puede usarse en modo portátil, sobremesa o en la TV; esto te brindará la posibilidad de utilizarla donde quieras y compartir sus controles.Los Joy-con cuentan con botones especiales para realizar print de pantalla. Además, posee una cámara infrarroja que puede leer la distancia respecto a los objetos e incluso detectar formas.Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición.",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_883371-MLA32731749246_112019-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_770676-MLA32731813622_112019-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_865283-MLA32731749270_112019-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_689641-MLA54268824166_032023-O.webp"
+        ],
+        "previous_price":"$26590",
+        "stock":"Disponible"
+    },
+    {
+        "id":"15",
+        "title":"Oferta Sony Ps4 Slim 6 Juegos Gratis 500gb Wifi 1 Control ",
+        "price":20000,
+        "category":"Console",
+        "description":"La PS4 Slim presenta un elegante diseño y cuenta con nuevos detalles como los botones táctiles de encendido o eject que no se ven a simple vista. Con sólo 2.1 kg, es un 16% más ligera y un 30% más delgada que el modelo original, y también puede colocarse en forma vertical, con un soporte que se vende por separado.Con Share Play podrás invitar a tus amigos a unirse a tus juegos, desafiarlos en modo multijugador o ceder el control en tu partida de forma virtual. También, transmití tus partidas en Twitch, YouTube o Dailymotion; compartir capturas de pantalla o vídeos de tus mejores momentos en Twitter y Facebook; conectarte con tus amigos, crear grupos, chatear o unirte a comunidades de juego para buscar nuevos contrincantes.",
+        "images":[
+            "https://http2.mlstatic.com/D_NQ_NP_865780-MLU43450593734_092020-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_952333-MLA54846724845_042023-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_973782-MLA32731749432_112019-O.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_889132-MLA54846703709_042023-O.webp"
+        ],
+        "previous_price":"$22090",
+        "stock":"Disponible"
+    }
+]

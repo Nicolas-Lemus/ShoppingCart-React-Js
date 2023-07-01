@@ -1,0 +1,10 @@
+.tittle{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+    padding-top: 4rem;
+    font-size: 6rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(181, 207, 176);
+}
