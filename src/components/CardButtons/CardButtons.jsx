@@ -1,11 +1,11 @@
 import React, { useContext, useState } from "react";
 import { Button } from "react-bootstrap";
-import { CardContext } from "../../context/CartContext";
+import { CartContext } from "../../context/CartContext";
 import "./CardButtons.css"
 
-const CartButtons = ({ customStyle, productid }) => {
+const CartButtons = ({ customStyle, productoid }) => {
   const [state, setState] = useState(1);
-  const { count, setCount } = useContext(CardContext);
+  const { count, setCount } = useContext(CartContext);
   const handleMoreClick = () => {
     setState(state + 1);
   };
@@ -16,13 +16,13 @@ const CartButtons = ({ customStyle, productid }) => {
 
   const addToCart = () => {
     const existingProduct = count.Tecnologia.find(
-      (p) => p.productid === productid
+      (p) => p.productoid === productoid
     );
     if (existingProduct) {
       existingProduct.qty += state;
     } else {
       const newProduct = {
-        productid,
+        productoid,
         qty: state,
       };
       setCount((prevState) => ({
@@ -42,7 +42,7 @@ const CartButtons = ({ customStyle, productid }) => {
         > 
         -
         </Button>
-        <span className="spamPrecio">{state}</span>
+        <span>{state}</span>
         <Button
           variant="outline-secondary"
           className="rounded-0"

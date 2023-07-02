@@ -1,8 +1,9 @@
 import React, {useContext } from 'react'
 import Headers from '../components/Headers/Headers'
 import { collection, getDoc, doc, getFirestore } from "firebase/firestore";
-import { CardContext } from "../context/CartContext";
+import { CartContext } from "../context/CartContext";
 import CartDetailCard from '../components/CartDetailCard/CartDeatilCard';
+import  DotSpinner  from '../animations/DotSpinner ';
 
 
 const fetchProductsByIds = async (ids) => {
@@ -23,20 +24,20 @@ const Tecnologia = productSnapshots.map((productSnapshot) => {
     }
   });
 
-  return Tecnologia.filter((product) => product !== null);
+  return Tecnologia.filter((producto) => producto !== null);
 };
 
-const Carts = () => {
+const Cart = () => {
     const [error, setError] = React.useState(false);
     const [productsData, setProductsData] = React.useState([]);
     const [loading, setLoading] = React.useState(true);
   
-    const { count } = useContext(CardContext);
+    const { count } = useContext(CartContext);
   
     console.log(count);
   
     React.useEffect(() => {
-      const ids = count.Tecnologia.map((product) => product.productid);
+      const ids = count.Tecnologia.map((producto) => producto.productid);
       fetchProductsByIds(ids)
         .then((res) => {
           setProductsData(res);
@@ -46,20 +47,22 @@ const Carts = () => {
     }, [count]);
   
     return loading ? (
-      <div>nada</div>
-    ) : (
+      <DotSpinner/>
+    ): error ? (
+      <div>algo salio mal</div>
+    ): (
       <div>
         <Headers HeadersH1={"Cart"} />
         <div>
-          {productsData.map((product) => (
+          {productsData.map((producto) => (
             <CartDetailCard
-              key={product.id}
-              Tecnologia={product}
-              qty={count.Teacnologia && count.Tecnologia.find((item) => item.productid === product.id)}
+              key={producto.id}
+              Tecnologia={producto}
+              qty={count.Tecnologia &&  count.Tecnologia.find((item) => item.productoid === producto.id)}
           />
           ))}
         </div>
       </div>
     );
   };
-export default Carts;
+export default Cart;

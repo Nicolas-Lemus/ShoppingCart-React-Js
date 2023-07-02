@@ -5,7 +5,7 @@ import NavBar from '../components/NavBar/NavBar'
 import Products from '../pages/Products'
 import Item from "../pages/Item"
 import Category from '../pages/Category'
-import Cart from '../pages/Carts'
+import Cart from '../pages/Cart'
 import Footer from '../components/Footer/Footer'
 import CreactProducts from '../pages/CreactProducts'
 import UpdateProducts from '../pages/UpdateProducts'
